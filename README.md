@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jcgushi
-- 👀 I’m interested in react
+- 👀 I’m interested in react and also in ESP32
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on react
 
